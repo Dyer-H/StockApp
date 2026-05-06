@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StockApp3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search_hint">Ticker Symbol...</string>
+    <string name="refresh_all">Refreshing all data</string>
+    <string name="refresh_failed">Failed to refresh data</string>
+    <string name="api_fail">Failed to query from API</string>
+    <string name="no_selection">Empty</string>
+    <string name="fav_title">Favorites</string>
+
+    <string name="open_graph_title">Open Prices</string>
+    <string name="close_graph_title">Closing Prices</string>
+    <string name="high_graph_title">High Prices</string>
+    <string name="low_graph_title">Low Prices</string>
+    <string name="volume_graph_title">Volume</string>
+</resources>
