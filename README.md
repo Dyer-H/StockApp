@@ -14,4 +14,4 @@ https://github.com/user-attachments/assets/d34d7555-e509-48c4-bea1-248d52ccbbf4
 Apologies for the length of the demo, Android's Emulator can be slow to load sometimes.
 
 ## Program Flow
-To minimize API calls, items that have been favorited, or that exist currently on the homepage, are stored locally in a database. This way, when we want information for a stock, if it is contained in these databases, we do not have to perform an API call for the information. This information gets updated automatically by the program through the API at every new day.
+To minimize API calls, items that have been favorited, or that exist currently on the homepage, are stored locally in a database. This way, when we want information for a stock, if it is contained in the database, we do not have to perform an API call for the information. This information gets updated automatically by the program through the API at every new day.
